@@ -8,7 +8,7 @@ h1{
 .orange-color{
     color: orangered;
 }
-section{
+.flexable-container{
     display: flex;
 }
 .half-width{
