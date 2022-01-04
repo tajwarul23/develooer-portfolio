@@ -32,3 +32,11 @@ section{
     background-repeat: no-repeat;
     
 }
+#dream-colour{
+    color: magenta;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
